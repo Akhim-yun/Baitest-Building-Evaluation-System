@@ -83,10 +83,17 @@ The Data Augmentation module is primarily responsible for receiving user-selecte
 *	Long-term Temperature Change: Long term slow rise in outdoor temperature. The implementation of this policy is based on a deep learning model that predicts the future temperature growth trend and uses the future temperature as input for the time series data prediction model to forecast building data.
 *	Pandemic: Large scale infectious diseases, such as Covid.
 <div align="center">
-  <img src="images/Result1.png">
+  <img src="images/Augumentation.png">
 </div>
 
 ## :orange_book Building evaluation models
-
+We re-implement five AI-based load forecasting models for evaluate our testing methodology. Three from AI competition and the other two from research community.
+> [Competition](https://www.globalaichallenge.com/en/competition/)
 
 ## :phone: Contact us
+If you are interested in our project, you can contact us via email. The following are the contact information of each project creator.
+<br> Marco yang2.deng@connect.polyu.hk
+<br> Jingyun zly594931618@hkbu.edu.hk
+<br> Donghua donghuaxie22612118@gmail.com
+<br> Liang Rui maxwell.liang@connect.polyu.hk
+<br> Jiaqi	jq898.fan@connect.polyu.hk
