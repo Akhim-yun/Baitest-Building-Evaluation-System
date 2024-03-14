@@ -58,10 +58,12 @@ models and accelerate ML model deployment; this can lead to tens of millions of 
 </div>
 
 ## :eyes: Survey result
-We designed a questionnaire to study (i) In practice, does building load forcasting model should be carefully selected among different buildings?(ii) When using the building load forcasting model, what metric of the model do they care about? To gain those information we deisnged four part question, i.e., ueser related, AI evaluation related, data related and model management related.
+
+* We designed a questionnaire to study (i) In practice, does building load forcasting model should be carefully selected among different buildings?(ii) When using the building load forcasting model, what metric of the model do they care about? To gain those information we deisnged four part question, i.e., ueser related, AI evaluation related, data related and model management related.
 <br>
 <br>
-The questionnaires include single choice, multiple choice and fill-in-the-blank questions. So we selected one question result in each type to present. From the results, we can conclude that (i) 77% of the interviewees' workes or studies are related to building load forecasting, (ii) 87.5% interviewees think  different buildings are required different load forcasting models. (iii) Most interviewees think the missing rate and the main pattern are the most important when they collect data from target building.
+
+*The questionnaires include single choice, multiple choice and fill-in-the-blank questions. So we selected one question result in each type to present. From the results, we can conclude that (i) 77% of the interviewees' workes or studies are related to building load forecasting, (ii) 87.5% interviewees think  different buildings are required different load forcasting models. (iii) Most interviewees think the missing rate and the main pattern are the most important when they collect data from target building.
 <div align="center">
   <img src="images/Survey_result.png">
 </div>
