@@ -9,7 +9,7 @@ Baitest --A Building Evaluation System
 
 > [Demo video](https://youtu.be/U8PfB93wCx0)
 
-[image](images/Baitest_demo.png)
+![image](images/Baitest_demo.png)
 
 > [Meeting Note](https://docs.google.com/document/d/1PPSkh5ZNaXh1GiIWawdBqzbC4-HKz2NTu9-rDip23mg/edit )
 
