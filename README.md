@@ -15,11 +15,13 @@ Baitest --A Building Evaluation System
 
 ## :fire: Introduction
 The goal of the BaiTest platform is to understand and deploy challenges related to AI-based building load forecasting models.
+<br>
 BaiTest can be used by building AI developers to compare
 and select appropriate ML models. Our preliminary experiments show that a model with
 high maintainability or reliability can show 3%-10% more energy saving against a model
 with the highest accuracy. BaiTest can allow effective use of the large number of ML
 models and accelerate ML model deployment; this can lead to tens of millions of saving.
+
 ## :heart: Analysis of ISO standard into our scenario
   Our goal is again to define what tests we shall apply to an ML model. We plan to design the evaluation methodology following the ISO/IEC 25010 [4, 5], a software quality standard. ISO25010 describes 13 characteristics consists of product quality and quality in use, for example, availability, reusability and efficiency, etc. In BaiTest, we plan to leverage a subset of characteristics as shown in the following table.
   We translate the ISO standard into the context of buildings, and we plan to test both (a) a building load forecasting ML model and (b) its associated energy control. We list the corresponding evaluation checklists in terms of buildings as shown in the right table.
