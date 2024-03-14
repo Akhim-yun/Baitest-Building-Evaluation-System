@@ -10,7 +10,7 @@ Baitest --A Building Evaluation System
 > [Demo video](https://youtu.be/U8PfB93wCx0)
 
 <div align="center">
-  <img src="images/Baitest_demo.png" alt="Your Image" width="400" height="300">
+  <img src="images/Baitest_demo.png" alt="Your Image" width="600" height="600">
 </div>
 
 > [Meeting Note](https://docs.google.com/document/d/1PPSkh5ZNaXh1GiIWawdBqzbC4-HKz2NTu9-rDip23mg/edit )
