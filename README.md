@@ -1,7 +1,7 @@
 <div align="center">
 <h1>
 <b>
-Baitest --A Building Evaluation System
+BaiTest: A Platform for AI Evaluation in Smart Buildings
 </b>
 </h1>
 </div>
