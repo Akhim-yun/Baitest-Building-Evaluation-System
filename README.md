@@ -1,4 +1,3 @@
-# Baitest system
 <div align="center">
 <h1>
 <b>
