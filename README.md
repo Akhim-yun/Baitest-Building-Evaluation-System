@@ -2,7 +2,7 @@
 <div align="center">
 <h1>
 <b>
-BaiTest
+Baitest --A Building Evaluation System
 </b>
 </h1>
 </div>
