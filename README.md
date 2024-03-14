@@ -20,6 +20,10 @@ The goal of the BaiTest platform is to understand and deploy challenges related 
   Our goal is again to define what tests we shall apply to an ML model. We plan to design the evaluation methodology following the ISO/IEC 25010 [4, 5], a software quality standard. ISO25010 describes 13 characteristics consists of product quality and quality in use, for example, availability, reusability and efficiency, etc. In BaiTest, we plan to leverage a subset of characteristics as shown in the following table.
   We translate the ISO standard into the context of buildings, and we plan to test both (a) a building load forecasting ML model and (b) its associated energy control. We list the corresponding evaluation checklists in terms of buildings as shown in the right table.
 
+<div align="center">
+  <img src="images/Iso.png">
+</div>
+
 ## :star: Front-end design
 * User-guider design
   
