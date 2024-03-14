@@ -26,11 +26,20 @@ The goal of the BaiTest platform is to understand and deploy challenges related 
 
 ## :star: Front-end design
 * User-guider design
-  
+<div align="center">
+  <img src="images/User_guide.png">
+</div>
 * Role selection and building selection/upload design
-  
+<div align="center">
+  <img src="images/Role_building_selection.png">
+</div>
 * Building data analysis design
-  
+<div align="center">
+  <img src="images/Analyse.png">
+</div>
 * Building evaluation result display design
-  
+<div align="center">
+  <img src="images/Result1.png">
+  <img src="images/Result2.png">
+</div>
 ## :eyes: Back-end design
