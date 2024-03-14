@@ -13,10 +13,10 @@ Baitest --A Building Evaluation System
 
 > [Survey Link](https://forms.gle/e5ZKm39eXKEoAYRi9)
 
-## Introduction
+## :fire: Introduction
 The goal of the BaiTest platform is to understand and deploy challenges related to AI-based building load forecasting models.
   
-## Front-end design
+## :star: Front-end design
 * User-guider design
   
 * Role selection and building selection/upload design
@@ -25,4 +25,4 @@ The goal of the BaiTest platform is to understand and deploy challenges related 
   
 * Building evaluation result display design
   
-## Back-end design
+## :eyes: Back-end design
