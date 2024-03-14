@@ -86,7 +86,7 @@ The Data Augmentation module is primarily responsible for receiving user-selecte
   <img src="images/Augumentation.png">
 </div>
 
-## :orange_book Building evaluation models
+## :orange_book: Building evaluation models
 We re-implement five AI-based load forecasting models for evaluate our testing methodology. Three from AI competition and the other two from research community.
 > [Competition](https://www.globalaichallenge.com/en/competition/)
 
