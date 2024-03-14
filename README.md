@@ -88,7 +88,7 @@ The Data Augmentation module is primarily responsible for receiving user-selecte
 
 ## :orange_book: Building evaluation models
 We re-implement five AI-based load forecasting models for evaluate our testing methodology. Three from AI competition and the other two from research community.
-> [Competition](https://www.globalaichallenge.com/en/competition/)
+> [Global AI challenge Competition Link](https://www.globalaichallenge.com/en/competition/)
 
 ## :phone: Contact us
 If you are interested in our project, you can contact us via email. The following are the contact information of each project creator.
