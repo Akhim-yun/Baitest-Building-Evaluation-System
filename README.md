@@ -68,3 +68,25 @@ models and accelerate ML model deployment; this can lead to tens of millions of 
   <img src="images/Survey_result.png">
 </div>
 
+## :office: Dataset Introduction
+We have processed three buildings governed by EMSD, i.e., WKGO, MKGO, YLDOB.
+<br>
+WKGO, MKGO, YLDOB are contain multiple chiller's to record their daily data, and WKGO has the highest number of chiller(6). The data of the three buildings are mainly included Supple Temperature, Return Temperature, Flow Rate, etc. The data range of MKGO and YLDOB is  2023, while the WKGO data ranges from 2019 to 2023.
+<br>
+In data preprocessing, because the time intervals between different data records different, so we make the time interval between data to 5 minutes.And for some outliers and missing data, we use 0 to fill in. In addition, we combined the existing data and formulas to calculate the coolingload and cop of each chiller. After preprocessing, WKGO has 380448 data records,MKGO has 18921 data records and YLDOB has 9258 data records.
+
+
+## :muscle: Data augmentation design
+The Data Augmentation module is primarily responsible for receiving user-selected data augmentation policies. Different policies, based on different algorithms, are applied to predict future data for buildings. Currently, there are four policies available: Work hour change, Equipment Aging, Long-term Temperature change, and Pandemic.
+* Work Hour Increase/Decrease/Switch: Three common situations of working hours for people working in the building.
+* Equipment Aging: The equipment supporting the building is gradually aging, such as chiller and sensors. 
+*	Long-term Temperature Change: Long term slow rise in outdoor temperature. The implementation of this policy is based on a deep learning model that predicts the future temperature growth trend and uses the future temperature as input for the time series data prediction model to forecast building data.
+*	Pandemic: Large scale infectious diseases, such as Covid.
+<div align="center">
+  <img src="images/Result1.png">
+</div>
+
+## :orange_book Building evaluation models
+
+
+## :phone: Contact us
