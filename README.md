@@ -63,7 +63,7 @@ models and accelerate ML model deployment; this can lead to tens of millions of 
 <br>
 <br>
 
-*The questionnaires include single choice, multiple choice and fill-in-the-blank questions. So we selected one question result in each type to present. From the results, we can conclude that (i) 77% of the interviewees' workes or studies are related to building load forecasting, (ii) 87.5% interviewees think  different buildings are required different load forcasting models. (iii) Most interviewees think the missing rate and the main pattern are the most important when they collect data from target building.
+* The questionnaires include single choice, multiple choice and fill-in-the-blank questions. So we selected one question result in each type to present. From the results, we can conclude that (i) 77% of the interviewees' workes or studies are related to building load forecasting, (ii) 87.5% interviewees think  different buildings are required different load forcasting models. (iii) Most interviewees think the missing rate and the main pattern are the most important when they collect data from target building.
 <div align="center">
   <img src="images/Survey_result.png">
 </div>
