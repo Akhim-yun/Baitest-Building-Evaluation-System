@@ -57,7 +57,7 @@ models and accelerate ML model deployment; this can lead to tens of millions of 
 </div>
 
 ## :eyes: Survey result
-
+ We cordially invite you to participate in the Survey on ML deployment in smart building:  https://forms.gle/e5ZKm39eXKEoAYRi9
 * We designed a questionnaire to study (i) In practice, does building load forcasting model should be carefully selected among different buildings?(ii) When using the building load forcasting model, what metric of the model do they care about? To gain those information we deisnged four part question, i.e., ueser related, AI evaluation related, data related and model management related.
 <br>
 
@@ -80,9 +80,7 @@ The Data Augmentation module is primarily responsible for receiving user-selecte
 * Equipment Aging: The equipment supporting the building is gradually aging, such as chiller and sensors. 
 *	Long-term Temperature Change: Long term slow rise in outdoor temperature. The implementation of this policy is based on a deep learning model that predicts the future temperature growth trend and uses the future temperature as input for the time series data prediction model to forecast building data.
 *	Pandemic: Large scale infectious diseases, such as Covid.
-<div align="center">
-  <img src="images/Augumentation.png">
-</div>
+
 
 ## :orange_book: Building evaluation models
 We re-implement five AI-based load forecasting models for evaluate our testing methodology. Three from AI competition and the other two from research community.
