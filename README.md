@@ -56,6 +56,10 @@ models and accelerate ML model deployment; this can lead to tens of millions of 
   <img src="images/Result2.png">
 </div>
 
+## 🍉 Get Start
+* Set up your databases in /Database/Database_setup.py
+* Modify your mysql user, password and database in config.py
+
 ## :eyes: Survey result
  We cordially invite you to participate in the Survey on ML deployment in smart building:  https://forms.gle/e5ZKm39eXKEoAYRi9
 * We designed a questionnaire to study (i) In practice, does building load forcasting model should be carefully selected among different buildings?(ii) When using the building load forcasting model, what metric of the model do they care about? To gain those information we deisnged four part question, i.e., ueser related, AI evaluation related, data related and model management related.
