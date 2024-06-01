@@ -58,11 +58,12 @@ models and accelerate ML model deployment; this can lead to tens of millions of 
 
 ## 🍉 Get Start
 * Back-end:
-* Set up your databases in /Database/Database_setup.py
-* Modify your mysql user, password and database in config.py
-* Run run.py
+  1. Set up your databases in /setup_mysql.py(Make sure your mysql id ,password and database is right)
+  2. Modify your mysql user, password and database in config.py
+  3. Run run.py
 * fornt-end:
-* Just run npm run dev in your terminal.
+  1. npm install
+  2.Just run npm run dev in your terminal.
 
 ## :eyes: Survey result
  We cordially invite you to participate in the Survey on ML deployment in smart building:  https://forms.gle/e5ZKm39eXKEoAYRi9
